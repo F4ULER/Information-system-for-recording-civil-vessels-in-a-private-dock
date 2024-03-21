@@ -1,0 +1,1 @@
+﻿Create table "ships" (id int, name string);
